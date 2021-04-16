@@ -1,4 +1,4 @@
-# cdn assets
+# 🔥cdn
 🔥 cdn assets 
 
 [![](https://cdn.jsdelivr.net/www.jsdelivr.com/7751e783cdf3e90e1b95afb4e4cb52848d87d240/img/logo-horizontal.svg)](https://www.jsdelivr.com/)
