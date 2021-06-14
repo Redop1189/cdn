@@ -10,6 +10,7 @@ body {
   font-family: "Poppins", Roboto, sans-serif;
   color: #fff;
   background: #171717;
+  user-select: none;
 }
 
 .container {
@@ -23,14 +24,14 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 75%;
+  width: 100%;
   background: #401a4c;
-  padding: 54px 44px 44px 44px;
-  border-radius: 0 0 10px 10px;
+  padding: 16px 40px;
+  border-radius: 0;
 }
 
 .container nav img {
-  width: 69px;
+  width: 46px;
   cursor: pointer;
 }
 
@@ -41,22 +42,27 @@ body {
 }
 
 .container nav .right-nav img {
-  width: 35px;
+  width: 25px;
   cursor: pointer;
 }
 
 .container .right-nav h2 {
-  font-size: 30px;
+  font-size: 1.2rem;
   font-weight: 500;
-  margin-left: 20px;
+  margin-left: 1rem;
 }
 
 .container h1 {
   font-family: Roboto, "Poppins", sans-serif;
-  font-size: 60px;
+  font-size: 2.8rem;
   font-weight: 500;
-  margin-top: 90px;
+  margin-top: 5.6rem;
   letter-spacing: 0.1em;
+}
+
+.container h1 a {
+  text-decoration: none;
+  color: #fff;
 }
 
 .container h1 span {
@@ -69,14 +75,14 @@ body {
 }
 
 .container .error h4 {
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 500;
   color: #dc3545;
   margin-top: 40px;
 }
 
 .container .error h3 {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: 500;
   color: #ffc107;
   margin-top: 30px;
@@ -99,7 +105,7 @@ body {
   font-family: "Poppins", Roboto, sans-serif;
   font-weight: 400;
   color: #fff;
-  font-size: 18px;
+  font-size: 1.125rem;
   background: transparent;
   border: none;
   width: 550px;
@@ -117,7 +123,7 @@ body {
 .container .search-box button {
   font-family: "Poppins", Roboto, sans-serif;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #ff0091;
   background: #fff;
   border: none;
@@ -139,18 +145,18 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 180px;
+  margin-top: 11.25rem;
 }
 
 .info-box h3 {
-  font-size: 22px;
+  font-size: 1.375rem;
   font-weight: 500;
   text-align: center;
   opacity: 80%;
 }
 
 .info-box p {
-  font-size: 15px;
+  font-size: 0.95rem;
   font-weight: 500;
   text-align: center;
   opacity: 50%;
@@ -160,7 +166,7 @@ body {
 .info-box a {
   text-decoration: none;
   color: #fff;
-  font-size: 15px;
+  font-size: 0.95rem;
   font-weight: 400;
   opacity: 50%;
   cursor: pointer;
@@ -176,34 +182,33 @@ body {
   .container nav {
     width: 100%;
     border-radius: 0;
-    padding: 25px;
-    justify-content: center;
-  }
-
-  .container nav .right-nav img {
-    display: block;
+    padding: 1.5rem;
   }
 
   .container nav img {
-    display: none;
+    width: 36px;
+  }
+
+  .container nav .right-nav img {
+    width: 23px;
   }
 
   .container .right-nav h2 {
-    font-size: 25px;
+    font-size: 1.1rem;
   }
 
   .container h1 {
-    font-size: 40px;
+    font-size: 2.2rem;
     margin-top: 50px;
   }
 
   .container .error h4 {
-    font-size: 15px;
+    font-size: 0.9rem;
     margin-top: 20px;
   }
 
   .container .error h3 {
-    font-size: 17px;
+    font-size: 1.05rem;
     margin-top: 20px;
   }
 
@@ -213,21 +218,27 @@ body {
 
   .container .search-box input {
     width: 250px;
+    font-size: 1rem;
+  }
+
+  .container .search-box button {
+    font-size: 1rem;
   }
 
   .info-box {
+    margin-top: 8rem;
     width: 350px;
   }
 
   .info-box h3 {
-    font-size: 18px;
+    font-size: 1.1rem;
   }
 
   .info-box p {
-    font-size: 13px;
+    font-size: 0.9rem;
   }
 
   .info-box a {
-    font-size: 14px;
+    font-size: 0.95rem;
   }
 }
