@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:url(#Combined-Shape_1_);}
+	.st2{fill:url(#Fill-4_1_);}
+</style>
+<g id="ic_premium">
+	<g id="Club">
+	</g>
+	<g id="Group">
+		<circle id="Bg" class="st0" cx="12" cy="12" r="12"/>
+		<g id="Group-2" transform="translate(5.000000, 6.000000)">
+			
+				<linearGradient id="Combined-Shape_1_" gradientUnits="userSpaceOnUse" x1="-883.1942" y1="483.7009" x2="-884.5764" y2="483.7985" gradientTransform="matrix(14 0 0 -8.4 12381 4067.7998)">
+				<stop  offset="0" style="stop-color:#A100FF"/>
+				<stop  offset="1" style="stop-color:#FF0000"/>
+			</linearGradient>
+			<path id="Combined-Shape" class="st1" d="M7.1,0l2.4,4.1c0.1,0.1,0.2,0.2,0.3,0.3c0.1,0,0.3,0,0.4-0.1l0,0L14,1l-1.3,7.4H1.3L0,1
+				l3.7,3.3c0.1,0.1,0.3,0.1,0.4,0.1c0.1,0,0.3-0.1,0.4-0.2l0,0L7.1,0z"/>
+			
+				<linearGradient id="Fill-4_1_" gradientUnits="userSpaceOnUse" x1="-867.7626" y1="195.1644" x2="-869.1448" y2="195.1691" gradientTransform="matrix(11.4 0 0 -1.5 9907.0996 303.5)">
+				<stop  offset="0" style="stop-color:#A100FF"/>
+				<stop  offset="1" style="stop-color:#FF0000"/>
+			</linearGradient>
+			<path id="Fill-4" class="st2" d="M12.2,11.5H1.8c-0.3,0-0.5-0.3-0.5-0.8S1.5,10,1.8,10h10.5c0.3,0,0.5,0.3,0.5,0.8
+				S12.5,11.5,12.2,11.5"/>
+		</g>
+	</g>
+</g>
+</svg>
